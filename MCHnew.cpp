@@ -1,4 +1,4 @@
-//author: Wilson Wang, 09/2016
+//author: Wilson Wang, 03/2016
 #include <stdio.h>
 #include <stdlib.h> /* for rand() */
 //#include <unistd.h> /* for getpid() */
