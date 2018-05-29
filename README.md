@@ -7,11 +7,7 @@ configurations are rejected in the equilibrium state.
  # Hamiltonian of the  Heisenberg model
  ![image](https://github.com/wangjinlong9788/Heisenberg-model-in-two-dimensions-using-Monte-Carlo-method/blob/master/Model.PNG)
 
-See also: Physical Review B, 75, 014425 (2007)
-
-i and j are lattice indexes in 2D, <ij> stands for nearest neighbors, r_{ij} = r_j − r_i are lattice vectors with lattice spacing a,
-
-and <i,j>_{r_c} stands for all spins with distance r_{ij} ≤ r_c.
+i and j are lattice indexes in 2D, <ij> stands for nearest neighbors.
  
 See also: Physical Review B, 75, 014425 (2007). (*)
 
